@@ -1,0 +1,1 @@
+Esse arquivo foi criado na máquina local, com objetivo de aplicar os conhcimentos adquiridos no módulo de Git/Github do Bootcamp Santander
